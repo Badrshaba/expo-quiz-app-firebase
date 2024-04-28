@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "option1": "London",
+    "option2": "Paris",
+    "option3": "Berlin",
+    "option4": "Rome",
+    "correct_option": 1,
+    "category": "Geography",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "option1": "J.K. Rowling",
+    "option2": "Stephen King",
+    "option3": "Harper Lee",
+    "option4": "George Orwell",
+    "correct_option": 1,
+    "category": "Literature",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "option1": "H2O",
+    "option2": "CO2",
+    "option3": "O2",
+    "option4": "NaCl",
+    "correct_option": 1,
+    "category": "Science",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "option1": "1912",
+    "option2": "1921",
+    "option3": "1901",
+    "option4": "1933",
+    "correct_option": 1,
+    "category": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the tallest mammal?",
+    "option1": "Elephant",
+    "option2": "Giraffe",
+    "option3": "Horse",
+    "option4": "Lion",
+    "correct_option": 2,
+    "category": "Science",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "option1": "Yuan",
+    "option2": "Yen",
+    "option3": "Dollar",
+    "option4": "Euro",
+    "correct_option": 2,
+    "category": "Geography",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which river is the longest in the world?",
+    "option1": "Nile",
+    "option2": "Amazon",
+    "option3": "Yangtze",
+    "option4": "Mississippi",
+    "correct_option": 1,
+    "category": "Geography",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "option1": "Pablo Picasso",
+    "option2": "Leonardo da Vinci",
+    "option3": "Vincent van Gogh",
+    "option4": "Michelangelo",
+    "correct_option": 2,
+    "category": "Art",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "option1": "Au",
+    "option2": "Ag",
+    "option3": "Fe",
+    "option4": "Pb",
+    "correct_option": 1,
+    "category": "Science",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "option1": "Marie Curie",
+    "option2": "Louis Pasteur",
+    "option3": "Alexander Fleming",
+    "option4": "Robert Koch",
+    "correct_option": 3,
+    "category": "Science",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who wrote '1984'?",
+    "option1": "Aldous Huxley",
+    "option2": "George Orwell",
+    "option3": "Ray Bradbury",
+    "option4": "H.G. Wells",
+    "correct_option": 2,
+    "category": "Literature",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "option1": "Margaret Thatcher",
+    "option2": "Angela Merkel",
+    "option3": "Theresa May",
+    "option4": "Jacinda Ardern",
+    "correct_option": 1,
+    "category": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What year did World War I begin?",
+    "option1": "1914",
+    "option2": "1918",
+    "option3": "1939",
+    "option4": "1945",
+    "correct_option": 1,
+    "category": "History",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "option1": "Heart",
+    "option2": "Liver",
+    "option3": "Skin",
+    "option4": "Brain",
+    "correct_option": 3,
+    "category": "Science",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Who composed 'The Four Seasons'?",
+    "option1": "Wolfgang Amadeus Mozart",
+    "option2": "Johann Sebastian Bach",
+    "option3": "Ludwig van Beethoven",
+    "option4": "Antonio Vivaldi",
+    "correct_option": 4,
+    "category": "Music",
+    "difficulty": "Medium"
+  }
+]
